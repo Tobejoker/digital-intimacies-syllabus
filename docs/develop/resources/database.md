@@ -1,0 +1,1 @@
+- [Digital Intimacies Syllabus Bibliography (Notion database)](https://norah-chow.notion.site/1614f9e8772f805abb9ae8d6750a5133?v=1614f9e8772f818092d5000c9e6ff2e3&pvs=4)

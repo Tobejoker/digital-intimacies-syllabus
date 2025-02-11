@@ -1,0 +1,7 @@
+---
+title: Course Description
+tags:
+  - Syllabus
+---
+
+This graduate seminar explores how digital technologies intersect with intimate relationships within their social, cultural, and political settings. Drawing from interdisciplinary perspectives, the course offers conceptual and analytical resources for examining how digital mediation influences our experiences of connection, emotion, and belonging by combining insights from media studies, critical intimacy studies, and platform studies. Throughout, we trace the evolution of scholarship on digital intimacies, focusing on the ways technologies shape, enable, and constrain diverse forms of intimate expressions and relationships. Analyzing varying forms of digital intimacy ranging from dating apps, fan communities, to digital archives, students will analyze how different axes of power and diversity, such as gender, sexuality, race, and geography, influence experiences of digital intimacy. Through collaborative discussion, students will explore central questions including: In what ways do digital technologies intersect with intimate relationships? What new forms of connection emerge through the digital? How does examining digital intimacies further our understanding of the texture of everyday lives?
