@@ -1,6 +1,6 @@
 #[Info]
 site_name: Digital Intimacies Syllabus 1.1
-site_url: http://digital-intimacies-syllabus.github.io
+site_url: https://tobejoker.github.io/digital-intimacies-syllabus/
 site_author: Norah Chow
 #[UI]
 theme:
@@ -60,7 +60,7 @@ theme:
     repo: fontawesome/brands/github #右上角图标
     logo: logo
 edit_uri: edit/main/docs # 编辑按钮跳转的链接
-repo_url: https://github.com/Tobejoker/digital-intimacies-syllabus.github.io # 右上角点击跳转的链接
+repo_url: https://github.com/Tobejoker/digital-intimacies-syllabus # 右上角点击跳转的链接
 repo_name: Tobejoker # 右上角的名字
 
 # [Navigtion]
@@ -155,7 +155,7 @@ plugins:
     separator: '[\s\-]+'
 - git-committers:
     enabled: !ENV [ CI, false ]
-    repository: Tobejoker/digital-intimacies-syllabus.github.io
+    repository: Tobejoker/digital-intimacies-syllabus
     branch: main
     exclude:
     - index.md
