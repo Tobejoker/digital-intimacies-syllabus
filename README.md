@@ -5,7 +5,7 @@
 **- Emphasis on Gender and Women's Studies**  
 **- Developing and collaborative**  
 
-[Go to the site](https://tobejoker.github.io/digital-intimacies-syllabus.github.io/)
+[Go to the site](https://tobejoker.github.io/digital-intimacies-syllabus/)
 
 ## Project
 
