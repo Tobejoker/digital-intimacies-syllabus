@@ -11,7 +11,6 @@ comments: false
 <center><font  color= #518FC1 size=3 class="ml3" style='text-align=right'">- Martin Luther King, Jr.</font></center>
 <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>-->
 
-
 <!-- 
 <center>
 <font  color= #608DBD size=3>
@@ -39,7 +38,6 @@ comments: false
 </script>
 </font>
 </center> -->
-
 
 <div id="rcorners2" >
   <div id="rcorners1">
@@ -110,10 +108,11 @@ comments: false
     <li>Access articles through tags or navigation</li>
     <ul>
       <li>Graduate-level seminar</li>
+      <li>Emphasis on Gender and Women's Studies</li>
       <li>Developing and collaborative</li>
     </ul>
   </ul>
-</div> 
+</div>
 
 <!-- - 基于Material for MkDocs美化
 - 简洁美观，功能多元化
@@ -136,26 +135,22 @@ comments: false
   - [网站添加Mkdocs博客](blog/Mkdocs/mkdocsblog.md)
   - [Blogger](blog/index.md) -->
 
-
-
 <div class="grid cards" markdown>
 
--   :simple-materialformkdocs:{ .lg .middle } __Quick Links__
+- :simple-materialformkdocs:{ .lg .middle } __Quick Links__
 
     ---
-    - [Syllabus](develop/syllabus/basics/week1.md)
-    - [Inspirations](about/inspirations.md)
-    - [Full bibliography](develop/resources/database.md)
-    - [Forthcoming modules](develop/syllabus/topics/index.md)
+  - [Syllabus](develop/syllabus/basics/week1.md)
+  - [Inspirations](about/inspirations.md)
+  - [Full bibliography](develop/resources/database.md)
+  - [Forthcoming modules](develop/syllabus/topics/index.md)
 
-
--   :simple-aboutdotme:{ .lg .middle } __About__
+- :simple-aboutdotme:{ .lg .middle } __About__
 
     ---
-    - [How to use this](about/documentation.md)
-    - [Coming next](about/whatnext.md)
-    - [Project origin](about/origin.md)
-    - [Message board](liuyanban.md) 
+  - [How to use this](about/documentation.md)
+  - [Coming next](about/whatnext.md)
+  - [Project origin](about/origin.md)
 
 </div>
 
@@ -187,6 +182,3 @@ comments: false
       </script>
       </font>
     </body>
-
-
-

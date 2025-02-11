@@ -5,8 +5,6 @@ tags:
   - Basics
 ---
 
-# Week 1: Course Introduction
-
 ## Mandatory Reading
 
 - **Hjorth, L., & Lim, S. S. (2012).** Mobile intimacy in an age of affective mobile media. *Feminist Media Studies*, *12*(4), 477-484.

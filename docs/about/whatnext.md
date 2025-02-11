@@ -14,6 +14,7 @@ tags:
 ## Module Expansion
 
 - Expand the modules. For modules to be included later, see [notes on "key topics"](../develop/syllabus/topics/index.md).
+- Include more research outside North American and Chinese contexts.
 - Allow for multiple versions of the same module based on different rationale (e.g., level, focus, approach...).
 - Include more multimedia resources.
 - Turn the sections of "further reading" for each module into field-specific databases of literature.
